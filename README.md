@@ -1,2 +1,2 @@
 # cv2
-https://shyboy12.github.io/cv2/
+https://genie78.github.io/cv2/
